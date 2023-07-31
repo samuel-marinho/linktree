@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: rgba(12,12,12);
+  --bg-url: rgba(12, 12, 12);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-hover: rgba(255, 255, 255, 0.05);
@@ -151,7 +151,6 @@ ul li a:hover {
   border-radius: 50%;
   transition: background 0.2s;
 }
-
 
 @keyframes slide-in {
   from {
